@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A74246C26B23CF65D5636328D870D1FB36DE5CF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A74246C26B23CF65D5636328D870D1FB36DE5CF6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "765B54C6-9FF1-469C-80C0-A99AD5D3DA86",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A74246C26B23CF65D5636328D870D1FB36DE5CF6" : "Survey.Libc-583\/Libc-583\/Survey.Libc-583\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Libc-583",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Libc-583.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fanxiushan\/Survey.Libc-583.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A74246C26B23CF65D5636328D870D1FB36DE5CF6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fanxiushan\/Survey.Libc-583.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A74246C26B23CF65D5636328D870D1FB36DE5CF6"
+    }
+  ]
+}
